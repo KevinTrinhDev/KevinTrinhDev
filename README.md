@@ -1,10 +1,8 @@
-<h3>Hi 👋, I'm Kevin Trinh</h3>
-Currently pursuing a B.S. in Computer Science @ University of Houston. 
+### Kevin Trinh
 
-- 👨‍💻 All of my projects are available at [kevintrinh.dev/projects](https://kevintrinh.dev/projects)
+Software engineer. I build and ship full-stack products end to end, and review AI gear and wearables on YouTube.
 
-- 📝 I regularly write articles on [kevintrinh.dev/articles](https://kevintrinh.dev/articles)
-
-- 📫 How to reach me **kevin@kevintrinh.dev**
-
-- 📄 Know about my experiences [kevintrinh.dev/resume](https://kevintrinh.dev/resume)
+- Site: [kevintrinh.dev](https://kevintrinh.dev)
+- Projects: [kevintrinh.dev/projects](https://kevintrinh.dev/projects)
+- Writing: [kevintrinh.dev/writing](https://kevintrinh.dev/writing)
+- Work with me: [kevintrinh.dev/work-with-me](https://kevintrinh.dev/work-with-me)
