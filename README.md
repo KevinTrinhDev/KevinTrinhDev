@@ -1,17 +1,8 @@
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dark_mode.svg">
-  <img alt="kevin@kevintrinh.dev profile banner" src="./light_mode.svg">
-</picture>
+  <a href="https://kevintrinh.dev">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./dark_mode.svg">
+      <img alt="kevin@kevintrinh.dev — engineer & researcher in Houston, TX. Building Atarla, gaze and inkboard. Researching privacy, security and data ownership. Click for kevintrinh.dev" src="./light_mode.svg">
+    </picture>
+  </a>
 </p>
-
-### Kevin Trinh
-
-Engineer and researcher in Houston, Texas. I build things end to end — backend,
-frontend, and the infrastructure underneath, usually on my own — and I publish
-research on data ownership and third-party risk.
-
-- Site: [kevintrinh.dev](https://kevintrinh.dev)
-- Projects: [kevintrinh.dev/projects](https://kevintrinh.dev/projects)
-- Writing and research: [kevintrinh.dev/writing](https://kevintrinh.dev/writing) · [kevintrinh.dev/research](https://kevintrinh.dev/research)
-- Contact: [kevintrinh.dev/contact](https://kevintrinh.dev/contact)
