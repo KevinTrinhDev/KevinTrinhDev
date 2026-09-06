@@ -1,7 +1,9 @@
+<p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./dark_mode.svg">
   <img alt="kevin@kevintrinh.dev profile banner" src="./light_mode.svg">
 </picture>
+</p>
 
 ### Kevin Trinh
 
