@@ -1,3 +1,8 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dark_mode.svg">
+  <img alt="kevin@kevintrinh.dev profile banner" src="./light_mode.svg">
+</picture>
+
 ### Kevin Trinh
 
 Engineer and researcher in Houston, Texas. I build things end to end — backend,
