@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="330" viewBox="0 0 900 330" role="img" aria-label="kevin@kevintrinh.dev terminal card">
 <text x="20" y="52" font-size="24" font-weight="700" fill="#1f2328" font-family="ui-sans-serif,system-ui,-apple-system,Segoe UI,Helvetica,Arial,sans-serif">kevin@kevintrinh.dev</text>
-<text x="880" y="52" text-anchor="end" font-size="13" fill="#59636e" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">engineer · researcher</text>
+<text x="880" y="52" text-anchor="end" font-size="13" fill="#59636e" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">founder · engineer</text>
 <line x1="20" x2="880" y1="70" y2="70" stroke="#d1d9e0"/>
 <text x="20" y="100" font-size="14" fill="#59636e" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">kevin@kevintrinh.dev:~$</text>
 <text x="215.20000000000002" y="100" font-size="14" fill="#1a7f37" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">whoami</text>
-<text x="20" y="122" font-size="14" fill="#1f2328" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">engineer · researcher — Houston, TX</text>
+<text x="20" y="122" font-size="14" fill="#1f2328" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">solo founder, Atarla AI — Houston, TX</text>
 <text x="20" y="147" font-size="14" fill="#59636e" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">kevin@kevintrinh.dev:~$</text>
 <text x="215.20000000000002" y="147" font-size="14" fill="#1a7f37" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">ls ~/now</text>
-<text x="20" y="169" font-size="14" fill="#1f2328" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">atarla/   gaze/   inkboard/</text>
+<text x="20" y="169" font-size="14" fill="#1f2328" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">atarla/   gaze/   dispatch/</text>
 <text x="20" y="194" font-size="14" fill="#59636e" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">kevin@kevintrinh.dev:~$</text>
 <text x="215.20000000000002" y="194" font-size="14" fill="#1a7f37" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">cat ~/focus</text>
 <text x="20" y="216" font-size="14" fill="#1f2328" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">privacy · security · data ownership</text>
